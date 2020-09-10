@@ -1,3 +1,5 @@
+** Updated Version at https://github.com/ShefESH/SeshWebsite/ **
+
 # shefesh-site
 Static site for the Sheffield Ethical Student Hackers Society
 
